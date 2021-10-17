@@ -1,0 +1,190 @@
+2021-10-16 18:32:25,207 INFO    MainThread:73888 [internal.py:wandb_internal():86] W&B internal server running at pid: 73888, started at: 2021-10-16 18:32:25.191498
+2021-10-16 18:32:25,207 INFO    WriterThread:73888 [datastore.py:open_for_write():77] open: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\run-6wmjcg62.wandb
+2021-10-16 18:32:25,207 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: check_version
+2021-10-16 18:32:25,207 DEBUG   SenderThread:73888 [sender.py:send():185] send: header
+2021-10-16 18:32:25,207 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: check_version
+2021-10-16 18:32:25,839 DEBUG   SenderThread:73888 [sender.py:send():185] send: run
+2021-10-16 18:32:26,361 INFO    SenderThread:73888 [dir_watcher.py:__init__():169] watching files in: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files
+2021-10-16 18:32:26,361 INFO    SenderThread:73888 [sender.py:_start_run_threads():746] run started: 6wmjcg62 with start time 1634398343
+2021-10-16 18:32:26,361 DEBUG   SenderThread:73888 [sender.py:send():185] send: summary
+2021-10-16 18:32:26,361 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: run_start
+2021-10-16 18:32:26,362 INFO    SenderThread:73888 [sender.py:_save_file():879] saving file wandb-summary.json with policy end
+2021-10-16 18:32:26,889 DEBUG   HandlerThread:73888 [meta.py:__init__():40] meta init
+2021-10-16 18:32:26,889 DEBUG   HandlerThread:73888 [meta.py:__init__():54] meta init done
+2021-10-16 18:32:26,889 DEBUG   HandlerThread:73888 [meta.py:probe():211] probe
+2021-10-16 18:32:26,899 DEBUG   HandlerThread:73888 [meta.py:_setup_git():201] setup git
+2021-10-16 18:32:27,021 DEBUG   HandlerThread:73888 [meta.py:_setup_git():208] setup git done
+2021-10-16 18:32:27,021 DEBUG   HandlerThread:73888 [meta.py:_save_pip():58] save pip
+2021-10-16 18:32:27,021 DEBUG   HandlerThread:73888 [meta.py:_save_pip():72] save pip done
+2021-10-16 18:32:27,021 DEBUG   HandlerThread:73888 [meta.py:_save_conda():79] save conda
+2021-10-16 18:32:27,363 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-summary.json
+2021-10-16 18:32:27,363 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\requirements.txt
+2021-10-16 18:32:27,364 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\conda-environment.yaml
+2021-10-16 18:32:32,377 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\output.log
+2021-10-16 18:32:39,413 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\conda-environment.yaml
+2021-10-16 18:32:39,419 DEBUG   HandlerThread:73888 [meta.py:_save_conda():87] save conda done
+2021-10-16 18:32:39,420 DEBUG   HandlerThread:73888 [meta.py:probe():249] probe done
+2021-10-16 18:32:39,425 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:32:39,425 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:32:39,892 DEBUG   SenderThread:73888 [sender.py:send():185] send: files
+2021-10-16 18:32:39,893 INFO    SenderThread:73888 [sender.py:_save_file():879] saving file wandb-metadata.json with policy now
+2021-10-16 18:32:40,418 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-metadata.json
+2021-10-16 18:32:40,962 INFO    Thread-17 :73888 [upload_job.py:push():137] Uploaded file C:\Users\nongaya\AppData\Local\Temp\tmp8lle0n4rwandb\1qlky2cz-wandb-metadata.json
+2021-10-16 18:32:54,902 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:32:54,902 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:32:59,096 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:33:10,403 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:33:10,403 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:33:32,828 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:33:32,979 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:33:32,980 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:33:48,939 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:33:48,939 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:34:04,342 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:34:04,342 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:34:07,016 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:34:19,835 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:34:19,835 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:34:35,246 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:34:35,247 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:34:41,906 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:34:56,909 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:34:56,910 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:35:12,351 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:35:12,351 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:35:14,040 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:35:29,040 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:35:29,041 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:35:44,612 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:35:44,612 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:35:48,299 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:36:00,125 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:36:00,125 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:36:15,639 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:36:15,639 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:36:22,097 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:36:31,063 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:36:31,063 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:36:46,893 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: stop_status
+2021-10-16 18:36:46,893 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: stop_status
+2021-10-16 18:36:51,104 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:51,105 DEBUG   SenderThread:73888 [sender.py:send():185] send: telemetry
+2021-10-16 18:36:51,105 DEBUG   SenderThread:73888 [sender.py:send():185] send: exit
+2021-10-16 18:36:51,105 INFO    SenderThread:73888 [sender.py:send_exit():294] handling exit code: 0
+2021-10-16 18:36:51,105 INFO    SenderThread:73888 [sender.py:send_exit():296] handling runtime: 264
+2021-10-16 18:36:51,107 INFO    SenderThread:73888 [sender.py:_save_file():879] saving file wandb-summary.json with policy end
+2021-10-16 18:36:51,108 INFO    SenderThread:73888 [sender.py:send_exit():306] send defer
+2021-10-16 18:36:51,108 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:51,109 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,109 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 0
+2021-10-16 18:36:51,109 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,110 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 0
+2021-10-16 18:36:51,110 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 1
+2021-10-16 18:36:51,110 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,110 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 1
+2021-10-16 18:36:51,327 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,328 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 1
+2021-10-16 18:36:51,328 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:51,328 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 2
+2021-10-16 18:36:51,328 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:51,328 DEBUG   SenderThread:73888 [sender.py:send():185] send: stats
+2021-10-16 18:36:51,329 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,329 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 2
+2021-10-16 18:36:51,329 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,329 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 2
+2021-10-16 18:36:51,329 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 3
+2021-10-16 18:36:51,329 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,330 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 3
+2021-10-16 18:36:51,330 DEBUG   SenderThread:73888 [sender.py:send():185] send: summary
+2021-10-16 18:36:51,330 INFO    SenderThread:73888 [sender.py:_save_file():879] saving file wandb-summary.json with policy end
+2021-10-16 18:36:51,331 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,331 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 3
+2021-10-16 18:36:51,331 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 4
+2021-10-16 18:36:51,331 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,331 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 4
+2021-10-16 18:36:51,332 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,332 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 4
+2021-10-16 18:36:51,430 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:51,781 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 5
+2021-10-16 18:36:51,782 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:51,782 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,782 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 5
+2021-10-16 18:36:51,783 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,783 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 5
+2021-10-16 18:36:51,783 INFO    SenderThread:73888 [dir_watcher.py:finish():283] shutting down directory watcher
+2021-10-16 18:36:51,800 INFO    Thread-12 :73888 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-summary.json
+2021-10-16 18:36:51,801 INFO    SenderThread:73888 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\config.yaml
+2021-10-16 18:36:51,802 INFO    SenderThread:73888 [dir_watcher.py:finish():313] scan: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files
+2021-10-16 18:36:51,802 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\conda-environment.yaml conda-environment.yaml
+2021-10-16 18:36:51,802 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\config.yaml config.yaml
+2021-10-16 18:36:51,803 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\output.log output.log
+2021-10-16 18:36:51,806 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\requirements.txt requirements.txt
+2021-10-16 18:36:51,810 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-metadata.json wandb-metadata.json
+2021-10-16 18:36:51,810 INFO    SenderThread:73888 [dir_watcher.py:finish():327] scan save: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-summary.json wandb-summary.json
+2021-10-16 18:36:51,813 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 6
+2021-10-16 18:36:51,815 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:51,815 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 6
+2021-10-16 18:36:51,815 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:51,817 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 6
+2021-10-16 18:36:51,818 INFO    SenderThread:73888 [file_pusher.py:finish():177] shutting down file pusher
+2021-10-16 18:36:51,897 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:51,897 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,004 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,004 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,112 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,112 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,222 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,222 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,340 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,340 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,449 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,449 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,560 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,560 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,668 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,668 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,782 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,782 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,893 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:52,893 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:52,908 INFO    Thread-20 :73888 [upload_job.py:push():137] Uploaded file C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\requirements.txt
+2021-10-16 18:36:53,002 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:53,002 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:53,049 INFO    Thread-19 :73888 [upload_job.py:push():137] Uploaded file C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\config.yaml
+2021-10-16 18:36:53,065 INFO    Thread-21 :73888 [upload_job.py:push():137] Uploaded file C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\wandb-summary.json
+2021-10-16 18:36:53,095 INFO    Thread-18 :73888 [upload_job.py:push():137] Uploaded file C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\files\conda-environment.yaml
+2021-10-16 18:36:53,111 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:53,111 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:53,221 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:53,221 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:53,299 INFO    Thread-11 :73888 [sender.py:transition_state():319] send defer: 7
+2021-10-16 18:36:53,299 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:53,299 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 7
+2021-10-16 18:36:53,299 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:53,299 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 7
+2021-10-16 18:36:53,330 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:53,931 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 8
+2021-10-16 18:36:53,931 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:53,931 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:53,931 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 8
+2021-10-16 18:36:53,931 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:53,931 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 8
+2021-10-16 18:36:53,931 INFO    SenderThread:73888 [sender.py:transition_state():319] send defer: 9
+2021-10-16 18:36:53,931 DEBUG   SenderThread:73888 [sender.py:send():185] send: final
+2021-10-16 18:36:53,931 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: defer
+2021-10-16 18:36:53,931 DEBUG   SenderThread:73888 [sender.py:send():185] send: footer
+2021-10-16 18:36:53,931 INFO    HandlerThread:73888 [handler.py:handle_request_defer():143] handle defer: 9
+2021-10-16 18:36:53,931 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: defer
+2021-10-16 18:36:53,931 INFO    SenderThread:73888 [sender.py:send_request_defer():315] handle sender defer: 9
+2021-10-16 18:36:54,036 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: poll_exit
+2021-10-16 18:36:54,036 DEBUG   SenderThread:73888 [sender.py:send_request():199] send_request: poll_exit
+2021-10-16 18:36:54,036 INFO    SenderThread:73888 [file_pusher.py:join():182] waiting for file pusher
+2021-10-16 18:36:55,512 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: get_summary
+2021-10-16 18:36:55,512 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: sampled_history
+2021-10-16 18:36:55,512 DEBUG   HandlerThread:73888 [handler.py:handle_request():126] handle_request: shutdown
+2021-10-16 18:36:55,512 INFO    HandlerThread:73888 [handler.py:finish():683] shutting down handler
+2021-10-16 18:36:55,943 INFO    WriterThread:73888 [datastore.py:close():281] close: C:\Users\nongaya\Desktop\DE_Week\Day3\Project_Introduction to Regression\wandb\run-20211016_183216-6wmjcg62\run-6wmjcg62.wandb
+2021-10-16 18:36:56,513 INFO    SenderThread:73888 [sender.py:finish():986] shutting down sender
+2021-10-16 18:36:56,513 INFO    SenderThread:73888 [file_pusher.py:finish():177] shutting down file pusher
+2021-10-16 18:36:56,514 INFO    SenderThread:73888 [file_pusher.py:join():182] waiting for file pusher
+2021-10-16 18:36:56,519 INFO    MainThread:73888 [internal.py:handle_exit():76] Internal process exited

@@ -1,0 +1,8 @@
+Accuracy score of the Logistic Regression classifier with default hyperparameter values 76.71%
+---Classificatin Report of the Logistic Regression classifier with default hyperparameter values ----
+                            precision    recall  f1-score   support
+Mobile Recommendation_Plan       0.76      0.98      0.86       232
+           Subscriber_plan       0.80      0.22      0.35        90
+                  accuracy                           0.77       322
+                 macro avg       0.78      0.60      0.60       322
+              weighted avg       0.77      0.77      0.72       322

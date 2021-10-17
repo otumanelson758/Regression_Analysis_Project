@@ -1,0 +1,312 @@
+Accuracy score of the Logistic Regression classifier with default hyperparameter values 76.71%
+---Classificatin Report of the Logistic Regression classifier with default hyperparameter values ----
+                            precision    recall  f1-score   support
+Mobile Recommendation_Plan       0.76      0.98      0.86       232
+           Subscriber_plan       0.80      0.22      0.35        90
+                  accuracy                           0.77       322
+                 macro avg       0.78      0.60      0.60       322
+              weighted avg       0.77      0.77      0.72       322
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:610: FitFailedWarning: Estimator fit failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 593, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 1306, in fit
+    solver = _check_solver(self.solver, self.penalty, self.dual)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\sklearn\linear_model\_logistic.py", line 443, in _check_solver
+    raise ValueError("Solver %s supports only 'l2' or 'none' penalties, "
+ValueError: Solver lbfgs supports only 'l2' or 'none' penalties, got l1 penalty.
+  warnings.warn("Estimator fit failed. The score on this train-test"
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_search.py:918: UserWarning: One or more of the test scores are non-finite: [      nan 0.7323415       nan       nan 0.7323415 0.7323415       nan
+ 0.7323415       nan       nan]
+  warnings.warn(
+Best Score: 73.23 using {'tol': 0.0001, 'penalty': 'l2', 'max_iter': 200, 'C': 0.8}

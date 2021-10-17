@@ -1,0 +1,23 @@
+
+0.7076205287713841
+Score RFC Train:  81.83%
+Score RFC Test:  81.43%
+Accuracy Random Forest  82.3%
+Pred media Random Forest  53.51%
+F1 Random Forest  61.74%
+Recall Random Forest  51.11%
+ROC Random Forest  72.75%
+Score RFC Train:  81.83%
+Score RFC Validation:  76.18%
+0    0.706065
+1    0.293935
+Name: is_ultra, dtype: float64
+0    0.970451
+1    0.029549
+dtype: float64
+wandb: Network error resolved after 0:05:08.020173, resuming normal operation.
+wandb: Network error resolved after 0:02:39.764364, resuming normal operation.
+wandb: Network error resolved after 0:01:32.401867, resuming normal operation.
+wandb: Network error resolved after 0:05:12.957296, resuming normal operation.
+wandb: Network error resolved after 0:04:49.818292, resuming normal operation.
+wandb: Network error resolved after 0:00:50.141321, resuming normal operation.

@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-10-16T15:44:05.553116",
+    "startedAt": "2021-10-16T15:43:56.803121",
+    "docker": null,
+    "gpu": "GeForce MX250",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\nongaya\\AppData\\Roaming\\jupyter\\runtime\\kernel-a6ef0b28-b849-4769-bac8-86b064084444.json"
+    ],
+    "state": "running",
+    "program": "Desktop/DE_Week/Day3/Project_Introduction to Regression/Introduction to Regression Project_2021.ipynb",
+    "root": "C:/Users/nongaya",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "otumanelson758@gmail.com",
+    "host": "LTROP802",
+    "username": "NOngaya",
+    "executable": "C:\\ProgramData\\Anaconda3\\python.exe"
+}

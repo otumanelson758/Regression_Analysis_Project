@@ -1,0 +1,21 @@
+
+0.7076205287713841
+wandb: Network error resolved after 0:01:00.148333, resuming normal operation.
+0.7076205287713841
+Score RFC Train:  50.5%
+Score RFC Test:  80.55%
+Accuracy Random Forest  71.85%
+Pred media Random Forest  31.77%
+F1 Random Forest  9.95%
+Recall Random Forest  5.32%
+ROC Random Forest  52.33%
+Score RFC Train:  50.5%
+Score RFC Test:  84.54%
+Score RFC Train:  50.5%
+Score RFC Validation:  84.43%
+0    0.706065
+1    0.293935
+Name: is_ultra, dtype: float64
+0    0.986003
+1    0.013997
+dtype: float64
